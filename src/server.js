@@ -4,6 +4,7 @@ const cors = require("cors");
 const { PrismaClient } = require("@prisma/client");
 const fs = require("fs");
 const path = require("path");
+const https = require("https");
 
 const app = express();
 const prisma = new PrismaClient();
@@ -81,8 +82,15 @@ app.post("/detectar", async (req, res) => {
   }
 });
 
-// Inicia o servidor
-const PORT = process.env.PORT || 3002;
-app.listen(PORT, () => {
-  console.log(`Servidor rodando na porta ${PORT}`);
+// Configuração do HTTPS
+const httpsOptions = {
+  key: fs.readFileSync("/etc/ssl/private/server.key"),
+  cert: fs.readFileSync("/etc/ssl/private/server.crt"),
+};
+
+// Inicia o servidor HTTPS
+const PORT = process.env.PORT || 3001;
+https.createServer(httpsOptions, app).listen(PORT, () => {
+  console.log(`🚀 Servidor HTTPS rodando na porta ${PORT}`);
 });
+
