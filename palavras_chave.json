@@ -1,0 +1,11 @@
+{
+    "ansiedade": ["ansiedade", "preocupação", "medo", "tensão", "angústia", "aflição", "nervosismo", "pressão"],
+    "crises": ["crise", "desespero", "colapso", "surto", "descontrole", "pavor"],
+    "pânico": ["pânico", "ataque de pânico", "sufocamento", "sensação de morte"],
+    "depressao": ["tristeza", "desânimo", "falta de vontade", "depressão", "cansaço emocional"],
+    "insônia": ["insônia", "dormir mal", "dificuldade para dormir", "noites sem sono"],
+    "procrastinação": ["procrastinar", "atrasar tarefas", "deixar para depois", "falta de motivação", "procrastinador", "procrastinando"],
+    "estresse": ["estresse", "carga emocional", "exaustão", "pressão psicológica"],
+    "solidão": ["solidão", "se sentir sozinho", "isolamento", "falta de conexão"]
+  }
+  

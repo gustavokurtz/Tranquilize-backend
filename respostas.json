@@ -1,0 +1,43 @@
+{
+    "ansiedade": {
+      "resposta": "Experimente a técnica da respiração 4-7-8: inspire pelo nariz por 4 segundos, segure por 7 segundos e expire lentamente pela boca por 8 segundos. Isso ajuda a reduzir a ativação do sistema nervoso simpático.",
+      "url": "https://www.medicalnewstoday.com/articles/324417",
+      "exercicio": "Feche os olhos e concentre-se na sua respiração. Faça 10 ciclos de respiração 4-7-8."
+    },
+    "crises": {
+      "resposta": "Se estiver em uma crise, use a técnica do aterramento 5-4-3-2-1: observe 5 coisas que vê, 4 que pode tocar, 3 que pode ouvir, 2 que pode cheirar e 1 que pode saborear. Isso ajuda a trazer a mente de volta ao presente.",
+      "url": "https://www.verywellmind.com/grounding-techniques-for-anxiety-5189063",
+      "exercicio": "Pegue um objeto próximo e concentre-se na textura dele por 30 segundos, tentando descrever mentalmente como ele se parece."
+    },
+    "pânico": {
+      "resposta": "Ataques de pânico duram em média 10 a 20 minutos. Experimente sentar-se e dizer em voz alta: 'Eu estou seguro, isso vai passar'. Estudos mostram que a repetição de frases afirmativas reduz os sintomas.",
+      "url": "https://www.psychologytoday.com/us/blog/anxiety-zen/201803/how-talk-yourself-out-panic-attack",
+      "exercicio": "Coloque uma mão sobre seu peito e a outra sobre o abdômen. Respire profundamente e tente expandir a barriga ao invés do peito."
+    },
+    "depressao": {
+      "resposta": "Se sentir sem vontade de fazer as coisas pode ser um sintoma de depressão. Pequenos passos ajudam: tome um banho quente, saia ao ar livre por 5 minutos ou escreva um pensamento positivo.",
+      "url": "https://www.mayoclinic.org/diseases-conditions/depression/in-depth/depression-and-exercise/art-20046495",
+      "exercicio": "Pegue um papel e escreva 3 pequenas coisas que você conseguiu fazer hoje, mesmo que pareçam simples."
+    },
+    "insônia": {
+      "resposta": "A higiene do sono é essencial. Evite telas 30 minutos antes de dormir, diminua as luzes do ambiente e pratique respiração lenta antes de deitar-se.",
+      "url": "https://www.sleepfoundation.org/sleep-hygiene",
+      "exercicio": "Experimente deitar-se com os olhos fechados e contrair os músculos dos pés por 5 segundos, depois solte. Faça isso subindo pelo corpo até o pescoço."
+    },
+    "procrastinação": {
+      "resposta": "A técnica Pomodoro pode ajudar: trabalhe 25 minutos intensamente e depois faça uma pausa de 5 minutos. Isso melhora a produtividade sem sobrecarga.",
+      "url": "https://todoist.com/productivity-methods/pomodoro-technique",
+      "exercicio": "Pegue uma tarefa e inicie um cronômetro de 25 minutos. Trabalhe nela sem distrações."
+    },
+    "estresse": {
+      "resposta": "O estresse pode ser reduzido com técnicas de relaxamento muscular progressivo: tensione e relaxe cada parte do corpo por 5 segundos, começando pelos pés.",
+      "url": "https://www.apa.org/topics/stress",
+      "exercicio": "Feche os olhos e visualize um local tranquilo por 1 minuto, tentando imaginar os sons, cheiros e texturas ao seu redor."
+    },
+    "solidão": {
+      "resposta": "A solidão pode ser aliviada ao conectar-se com outras pessoas, mesmo digitalmente. Experimente enviar uma mensagem para um amigo ou familiar e iniciar uma conversa leve.",
+      "url": "https://www.psychologytoday.com/us/blog/social-instincts/201904/how-reduce-loneliness-and-build-connections",
+      "exercicio": "Pegue seu celular e envie um áudio para alguém que você gosta, apenas para dar um 'oi'."
+    }
+  }
+  
