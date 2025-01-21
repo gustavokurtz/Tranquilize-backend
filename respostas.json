@@ -1,57 +1,42 @@
 {
   "ansiedade": {
-    "resposta": "A técnica da respiração 4-7-8 pode ajudar a reduzir a ativação do sistema nervoso simpático, promovendo um relaxamento mais profundo. Inspire pelo nariz por 4 segundos, segure por 7 segundos e expire lentamente pela boca por 8 segundos.",
-    "url": "https://www.uol.com.br/vivabem/noticias/redacao/2023/01/13/respiracao-4-7-8-ajuda-a-reduzir-ansiedade-e-dormir-melhor-veja-como-fazer.htm",
-    "exercicio": "Feche os olhos e concentre-se na sua respiração. Faça 10 ciclos de respiração 4-7-8."
+    "resposta": "A técnica da respiração diafragmática pode ajudar a reduzir os sintomas de ansiedade. Inspire pelo nariz profundamente, segure por 4 segundos e expire lentamente pela boca. Isso promove um estado de relaxamento e diminui a frequência cardíaca.",
+    "url": "https://drauziovarella.uol.com.br/psiquiatria/tecnicas-de-respiracao-para-aliviar-a-ansiedade/",
+    "exercicio": "Sente-se confortavelmente, coloque uma mão no peito e outra no abdômen. Inspire lentamente pelo nariz, sentindo o abdômen expandir. Expire pela boca devagar. Repita por 5 minutos."
   },
   "crises": {
-    "resposta": "A técnica do aterramento 5-4-3-2-1 pode ajudar a reduzir os sintomas de uma crise de ansiedade. Identifique 5 coisas que vê, 4 que pode tocar, 3 que pode ouvir, 2 que pode cheirar e 1 que pode saborear para trazer sua mente ao presente.",
-    "url": "https://www.paho.org/pt/noticias/10-10-2022-crises-de-ansiedade-o-que-sao-e-como-trata-las",
+    "resposta": "Se estiver em uma crise, use a técnica do aterramento 5-4-3-2-1: observe 5 coisas que vê, 4 que pode tocar, 3 que pode ouvir, 2 que pode cheirar e 1 que pode saborear. Isso ajuda a trazer a mente de volta ao presente.",
+    "url": "https://drauziovarella.uol.com.br/psiquiatria/aprenda-a-controlar-crises-de-panico/",
     "exercicio": "Pegue um objeto próximo e concentre-se na textura dele por 30 segundos, tentando descrever mentalmente como ele se parece."
   },
   "pânico": {
-    "resposta": "Ataques de pânico duram, em média, de 10 a 20 minutos. Durante uma crise, tente dizer em voz alta: 'Eu estou seguro, isso vai passar'. Estudos mostram que a repetição de frases afirmativas reduz os sintomas.",
-    "url": "https://www.uol.com.br/vivabem/noticias/redacao/2021/11/11/crise-de-panico-saiba-como-controlar.htm",
+    "resposta": "Ataques de pânico geralmente duram entre 10 e 20 minutos. Durante a crise, tente dizer em voz alta: 'Estou seguro, isso vai passar'. Estudos mostram que repetir frases afirmativas pode reduzir os sintomas.",
+    "url": "https://drauziovarella.uol.com.br/psiquiatria/aprenda-a-controlar-crises-de-panico/",
     "exercicio": "Coloque uma mão sobre o peito e a outra sobre o abdômen. Respire profundamente e tente expandir a barriga ao invés do peito."
   },
   "depressao": {
-    "resposta": "A depressão pode afetar a energia e a motivação, mas pequenos passos fazem diferença. Tome um banho quente, saia ao ar livre por 5 minutos ou escreva um pensamento positivo. Estudos mostram que pequenas conquistas ajudam na recuperação.",
+    "resposta": "A depressão pode afetar sua motivação, mas pequenas ações podem ajudar. Caminhar ao ar livre por 10 minutos, ouvir músicas agradáveis ou escrever um pensamento positivo são técnicas recomendadas.",
     "url": "https://drauziovarella.uol.com.br/doencas-e-sintomas/depressao/",
-    "exercicio": "Pegue um papel e escreva 3 pequenas coisas que você conseguiu fazer hoje, mesmo que pareçam simples."
+    "exercicio": "Pegue um papel e escreva três coisas que conseguiu fazer hoje, mesmo que pareçam simples."
   },
   "insônia": {
-    "resposta": "A higiene do sono é essencial. Evite telas 30 minutos antes de dormir, diminua as luzes do ambiente e pratique respiração lenta antes de deitar-se. A técnica do relaxamento muscular progressivo pode ser útil.",
+    "resposta": "A higiene do sono é essencial. Evite telas 30 minutos antes de dormir, mantenha um horário regular e crie um ambiente escuro e silencioso.",
     "url": "https://www.tuasaude.com/higiene-do-sono/",
-    "exercicio": "Deite-se e contraia os músculos dos pés por 5 segundos, depois solte. Suba gradualmente pelo corpo até chegar ao pescoço, relaxando cada parte."
+    "exercicio": "Antes de dormir, deite-se e contraia os músculos dos pés por 5 segundos e solte. Suba gradualmente pelo corpo até o pescoço, relaxando cada parte."
   },
   "procrastinação": {
-    "resposta": "A técnica Pomodoro pode ajudar a melhorar a produtividade sem sobrecarga. Trabalhe por 25 minutos e faça uma pausa de 5 minutos, repetindo o ciclo. Estudos mostram que essa técnica reduz a fadiga mental.",
+    "resposta": "A Técnica Pomodoro pode ajudar a melhorar a produtividade sem sobrecarga. Trabalhe por 25 minutos e faça uma pausa de 5 minutos.",
     "url": "https://www.bbc.com/portuguese/articles/c0p0gw6rpjzo",
-    "exercicio": "Pegue uma tarefa e inicie um cronômetro de 25 minutos. Trabalhe nela sem distrações."
+    "exercicio": "Escolha uma tarefa e defina um cronômetro de 25 minutos. Trabalhe nela sem distrações."
   },
   "estresse": {
-    "resposta": "O estresse pode ser reduzido com a técnica de relaxamento muscular progressivo: tensione e relaxe cada parte do corpo por 5 segundos, começando pelos pés e subindo até a cabeça. Isso ajuda a diminuir a tensão acumulada.",
-    "url": "https://www.ecycle.com.br/relaxamento-muscular-progressivo/",
-    "exercicio": "Feche os olhos e visualize um local tranquilo por 1 minuto, tentando imaginar os sons, cheiros e texturas ao seu redor."
+    "resposta": "A meditação mindfulness pode ajudar a reduzir o estresse e aumentar a sensação de bem-estar.",
+    "url": "https://www.tuasaude.com/como-meditar/",
+    "exercicio": "Sente-se confortavelmente, feche os olhos e concentre-se na sua respiração por 10 minutos, deixando os pensamentos passarem sem julgá-los."
   },
   "solidão": {
-    "resposta": "A solidão pode ser aliviada ao se conectar com outras pessoas, mesmo virtualmente. Experimente enviar uma mensagem para um amigo ou familiar e iniciar uma conversa leve. Estudos indicam que interações sociais ajudam a liberar ocitocina, o 'hormônio do bem-estar'.",
+    "resposta": "Manter conexões sociais, mesmo digitais, pode aliviar a solidão. Experimente enviar uma mensagem para um amigo ou familiar e iniciar uma conversa leve.",
     "url": "https://drauziovarella.uol.com.br/saude-mental/solid-o-um-problema-global/",
     "exercicio": "Pegue seu celular e envie um áudio para alguém que você gosta, apenas para dar um 'oi'."
-  },
-  "baixa autoestima": {
-    "resposta": "A autoestima pode ser fortalecida ao mudar o diálogo interno. Evite frases autodepreciativas e tente substituir pensamentos negativos por afirmações positivas sobre você mesmo.",
-    "url": "https://www.psicologiamsn.com/2014/06/como-aumentar-autoestima.html",
-    "exercicio": "Escreva 3 qualidades suas e lembre-se de situações em que elas te ajudaram no passado."
-  },
-  "burnout": {
-    "resposta": "O burnout ocorre devido ao excesso de estresse ocupacional. Se sentir sobrecarregado, tente criar pausas regulares no dia, definir limites de trabalho e praticar atividades relaxantes.",
-    "url": "https://drauziovarella.uol.com.br/doencas-e-sintomas/burnout/",
-    "exercicio": "Levante-se, alongue os braços e respire fundo 3 vezes. Dê uma caminhada curta de 5 minutos, se possível."
-  },
-  "tristeza": {
-    "resposta": "Sentir-se triste é natural, mas é importante buscar pequenas ações que tragam conforto. Caminhar ao ar livre, ouvir uma música relaxante ou falar com alguém pode ajudar a aliviar esse sentimento.",
-    "url": "https://www.tuasaude.com/como-lidar-com-a-tristeza/",
-    "exercicio": "Escreva uma carta para si mesmo como se estivesse aconselhando um amigo querido. Guarde essa carta e releia quando necessário."
   }
 }
